@@ -1,2 +1,2 @@
 # my-new-project
-vvvvvvvvvvvvv
+this is my new project
